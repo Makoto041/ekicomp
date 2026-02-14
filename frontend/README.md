@@ -1,0 +1,1 @@
+# EKICOMP Frontend (Next.js)
